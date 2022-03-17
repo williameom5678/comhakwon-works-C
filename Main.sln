@@ -9,6 +9,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "yunsan", "Project1\Project1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other", "Other", "{001C6655-F24C-482C-917F-2C44630AC5D5}"
 	ProjectSection(SolutionItems) = preProject
+		kilo.c = kilo.c
 		Log.txt = Log.txt
 		Template.c = Template.c
 	EndProjectSection
