@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1831
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "idpw", "Project3\Project3.vcxproj", "{CA4EDECA-4F91-4FC4-9B97-2B922F1FE9BD}"
 EndProject
@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other", "Other", "{001C6655
 	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ASCII", "ASCII\ASCII.vcxproj", "{4A2BD9D9-515E-4E0B-972F-2C09F0B17D5F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test-C-popup", "Test-C-popup\Test-C-popup.vcxproj", "{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,14 @@ Global
 		{4A2BD9D9-515E-4E0B-972F-2C09F0B17D5F}.Release|x64.Build.0 = Release|x64
 		{4A2BD9D9-515E-4E0B-972F-2C09F0B17D5F}.Release|x86.ActiveCfg = Release|Win32
 		{4A2BD9D9-515E-4E0B-972F-2C09F0B17D5F}.Release|x86.Build.0 = Release|Win32
+		{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}.Debug|x64.ActiveCfg = Debug|x64
+		{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}.Debug|x64.Build.0 = Debug|x64
+		{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}.Debug|x86.Build.0 = Debug|Win32
+		{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}.Release|x64.ActiveCfg = Release|x64
+		{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}.Release|x64.Build.0 = Release|x64
+		{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}.Release|x86.ActiveCfg = Release|Win32
+		{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
