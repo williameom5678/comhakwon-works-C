@@ -32,13 +32,13 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#define KILO_VERSION "0.0.2"
+#define KILO_VERSION "0.0.1"
 
 #ifdef __linux__
 #define _POSIX_C_SOURCE 200809L
 #endif
 
-#include <termios.h>
+#include "termios.h"
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdint.h>
@@ -47,9 +47,9 @@
 #include <ctype.h>
 #include <time.h>
 #include <sys/types.h>
-#include <sys/ioctl.h>
-#include <sys/time.h>
-#include <unistd.h>
+#include "ioctl.h"
+#include "time.h"
+#include <io.h>
 #include <stdarg.h>
 #include <fcntl.h>
 #include <signal.h>

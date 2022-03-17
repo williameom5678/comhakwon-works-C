@@ -9,7 +9,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "yunsan", "Project1\Project1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other", "Other", "{001C6655-F24C-482C-917F-2C44630AC5D5}"
 	ProjectSection(SolutionItems) = preProject
-		kilo.c = kilo.c
 		Log.txt = Log.txt
 		Template.c = Template.c
 	EndProjectSection
@@ -17,6 +16,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ASCII", "ASCII\ASCII.vcxproj", "{4A2BD9D9-515E-4E0B-972F-2C09F0B17D5F}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test-C-popup", "Test-C-popup\Test-C-popup.vcxproj", "{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kilo", "Kilo\Kilo.vcxproj", "{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -58,6 +59,14 @@ Global
 		{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}.Release|x64.Build.0 = Release|x64
 		{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}.Release|x86.ActiveCfg = Release|Win32
 		{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}.Release|x86.Build.0 = Release|Win32
+		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Debug|x64.ActiveCfg = Debug|x64
+		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Debug|x64.Build.0 = Debug|x64
+		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Debug|x86.ActiveCfg = Debug|Win32
+		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Debug|x86.Build.0 = Debug|Win32
+		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Release|x64.ActiveCfg = Release|x64
+		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Release|x64.Build.0 = Release|x64
+		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Release|x86.ActiveCfg = Release|Win32
+		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
