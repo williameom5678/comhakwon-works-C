@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nanugi", "nanugi\nanugi.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "banbokmun", "Project4\Project4.vcxproj", "{F8F69D31-36A5-476B-827D-EC35C8AEEE8D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "윤년", "윤년\윤년.vcxproj", "{329BFD3B-BF7C-44C3-BDB4-C0B6BA01FA44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -87,6 +89,14 @@ Global
 		{F8F69D31-36A5-476B-827D-EC35C8AEEE8D}.Release|x64.Build.0 = Release|x64
 		{F8F69D31-36A5-476B-827D-EC35C8AEEE8D}.Release|x86.ActiveCfg = Release|Win32
 		{F8F69D31-36A5-476B-827D-EC35C8AEEE8D}.Release|x86.Build.0 = Release|Win32
+		{329BFD3B-BF7C-44C3-BDB4-C0B6BA01FA44}.Debug|x64.ActiveCfg = Debug|x64
+		{329BFD3B-BF7C-44C3-BDB4-C0B6BA01FA44}.Debug|x64.Build.0 = Debug|x64
+		{329BFD3B-BF7C-44C3-BDB4-C0B6BA01FA44}.Debug|x86.ActiveCfg = Debug|Win32
+		{329BFD3B-BF7C-44C3-BDB4-C0B6BA01FA44}.Debug|x86.Build.0 = Debug|Win32
+		{329BFD3B-BF7C-44C3-BDB4-C0B6BA01FA44}.Release|x64.ActiveCfg = Release|x64
+		{329BFD3B-BF7C-44C3-BDB4-C0B6BA01FA44}.Release|x64.Build.0 = Release|x64
+		{329BFD3B-BF7C-44C3-BDB4-C0B6BA01FA44}.Release|x86.ActiveCfg = Release|Win32
+		{329BFD3B-BF7C-44C3-BDB4-C0B6BA01FA44}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
