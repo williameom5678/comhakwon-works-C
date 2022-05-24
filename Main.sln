@@ -17,8 +17,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ASCII", "ASCII\ASCII.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test-C-popup", "Test-C-popup\Test-C-popup.vcxproj", "{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kilo", "Kilo\Kilo.vcxproj", "{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nanugi", "nanugi\nanugi.vcxproj", "{AB330BE3-B90D-4178-9569-C61AAE2CB936}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "banbokmun", "Project4\Project4.vcxproj", "{F8F69D31-36A5-476B-827D-EC35C8AEEE8D}"
@@ -30,6 +28,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "n부터n까지합", "n부터n까지합\n부터n까지합.vcxproj", "{91503149-B390-40AE-AEB9-320A025DEC75}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "성적_평균", "성적_평균\성적_평균.vcxproj", "{043B1BE5-5E8F-4896-9CFC-596CBB026677}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "최대값", "최대값\최대값.vcxproj", "{FAE30B46-3480-47E4-B8A0-550FEF682438}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,14 +71,6 @@ Global
 		{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}.Release|x64.Build.0 = Release|x64
 		{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}.Release|x86.ActiveCfg = Release|Win32
 		{BB7835BB-3DEC-4B2C-B072-EC5C665193AF}.Release|x86.Build.0 = Release|Win32
-		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Debug|x64.ActiveCfg = Release|Win32
-		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Debug|x64.Build.0 = Release|Win32
-		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Debug|x86.ActiveCfg = Debug|Win32
-		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Debug|x86.Build.0 = Debug|Win32
-		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Release|x64.ActiveCfg = Release|x64
-		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Release|x64.Build.0 = Release|x64
-		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Release|x86.ActiveCfg = Release|Win32
-		{AEF1B47F-4C65-4CBF-B55C-48C0E6B59785}.Release|x86.Build.0 = Release|Win32
 		{AB330BE3-B90D-4178-9569-C61AAE2CB936}.Debug|x64.ActiveCfg = Release|Win32
 		{AB330BE3-B90D-4178-9569-C61AAE2CB936}.Debug|x64.Build.0 = Release|Win32
 		{AB330BE3-B90D-4178-9569-C61AAE2CB936}.Debug|x86.ActiveCfg = Debug|Win32
@@ -127,6 +119,14 @@ Global
 		{043B1BE5-5E8F-4896-9CFC-596CBB026677}.Release|x64.Build.0 = Release|x64
 		{043B1BE5-5E8F-4896-9CFC-596CBB026677}.Release|x86.ActiveCfg = Release|Win32
 		{043B1BE5-5E8F-4896-9CFC-596CBB026677}.Release|x86.Build.0 = Release|Win32
+		{FAE30B46-3480-47E4-B8A0-550FEF682438}.Debug|x64.ActiveCfg = Debug|x64
+		{FAE30B46-3480-47E4-B8A0-550FEF682438}.Debug|x64.Build.0 = Debug|x64
+		{FAE30B46-3480-47E4-B8A0-550FEF682438}.Debug|x86.ActiveCfg = Debug|Win32
+		{FAE30B46-3480-47E4-B8A0-550FEF682438}.Debug|x86.Build.0 = Debug|Win32
+		{FAE30B46-3480-47E4-B8A0-550FEF682438}.Release|x64.ActiveCfg = Release|x64
+		{FAE30B46-3480-47E4-B8A0-550FEF682438}.Release|x64.Build.0 = Release|x64
+		{FAE30B46-3480-47E4-B8A0-550FEF682438}.Release|x86.ActiveCfg = Release|Win32
+		{FAE30B46-3480-47E4-B8A0-550FEF682438}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
