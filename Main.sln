@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "파일메뉴", "파일메�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "팩토리얼", "팩토리얼\팩토리얼.vcxproj", "{8D3133F9-A361-4D81-898A-FD74DDB02FEC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "별탑", "별탑\별탑.vcxproj", "{C0401129-6302-44BA-A698-100ACD6C433C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -167,6 +169,14 @@ Global
 		{8D3133F9-A361-4D81-898A-FD74DDB02FEC}.Release|x64.Build.0 = Release|x64
 		{8D3133F9-A361-4D81-898A-FD74DDB02FEC}.Release|x86.ActiveCfg = Release|Win32
 		{8D3133F9-A361-4D81-898A-FD74DDB02FEC}.Release|x86.Build.0 = Release|Win32
+		{C0401129-6302-44BA-A698-100ACD6C433C}.Debug|x64.ActiveCfg = Debug|x64
+		{C0401129-6302-44BA-A698-100ACD6C433C}.Debug|x64.Build.0 = Debug|x64
+		{C0401129-6302-44BA-A698-100ACD6C433C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C0401129-6302-44BA-A698-100ACD6C433C}.Debug|x86.Build.0 = Debug|Win32
+		{C0401129-6302-44BA-A698-100ACD6C433C}.Release|x64.ActiveCfg = Release|x64
+		{C0401129-6302-44BA-A698-100ACD6C433C}.Release|x64.Build.0 = Release|x64
+		{C0401129-6302-44BA-A698-100ACD6C433C}.Release|x86.ActiveCfg = Release|Win32
+		{C0401129-6302-44BA-A698-100ACD6C433C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
